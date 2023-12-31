@@ -1,0 +1,26 @@
+/* Layout Styling */
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Text Styling */
+
+.home { font-family: Chewy;}
+
+/* Icon Styling */
+
+.icons {
+  color: #fff;
+  font-size: 3em;
+  padding: 2px;
+}
+
+.icons:hover {
+  color: #ffffffab;
+  transition: all 0.25s;
+  -webkit-transition: all .2s;
+}
